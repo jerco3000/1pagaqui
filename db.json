@@ -1,0 +1,7 @@
+{
+  "compras": [
+    { "pp_id" : 1, "emp_run"   : 90749000, "suc_ic" : 7,"pp_codigo" : "87234662342", "pp_nombre" : "Camiseta", "pp_descripcion"  : "Camiseta tuareg hombre", "p_url" : "", "pp_preciobruto"  : 8320,"pp_iva"  : 1580, "pp_precioneto" : 9900},
+    { "pp_id" : 2, "emp_run"   : 90749000, "suc_ic" : 7,"pp_codigo" : "34534556454", "pp_nombre" : "Pantalon", "pp_descripcion"  : "Pantalon casual hombre", "p_url" : "", "pp_preciobruto"  : 8320,"pp_iva"  : 1580, "pp_precioneto" : 9900},
+    { "pp_id" : 2, "emp_run"   : 90749000, "suc_ic" : 7,"pp_codigo" : "26365687442", "pp_nombre" : "Zapatos", "pp_descripcion"  : "Zapato Casual Dennin", "p_url" : "", "pp_preciobruto"  : 28320,"pp_iva"  : 3580, "pp_precioneto" : 32900}
+  ]
+}
