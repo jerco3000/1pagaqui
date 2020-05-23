@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"1pagaquifb94f827": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

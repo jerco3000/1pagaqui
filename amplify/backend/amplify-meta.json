@@ -1,0 +1,40 @@
+{
+	"providers": {
+		"awscloudformation": {
+			"AuthRoleName": "amplify-1pagaqui-dev-12338-authRole",
+			"UnauthRoleArn": "arn:aws:iam::897814701158:role/amplify-1pagaqui-dev-12338-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::897814701158:role/amplify-1pagaqui-dev-12338-authRole",
+			"Region": "us-east-1",
+			"DeploymentBucketName": "amplify-1pagaqui-dev-12338-deployment",
+			"UnauthRoleName": "amplify-1pagaqui-dev-12338-unauthRole",
+			"StackName": "amplify-1pagaqui-dev-12338",
+			"StackId": "arn:aws:cloudformation:us-east-1:897814701158:stack/amplify-1pagaqui-dev-12338/66168340-9bec-11ea-b4f1-1245bb6cedee",
+			"AmplifyAppId": "d1vccgmasshffj"
+		}
+	},
+	"auth": {
+		"1pagaquifb94f827": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false,
+			"providerMetadata": {
+				"s3TemplateURL": "https://s3.amazonaws.com/amplify-1pagaqui-dev-12338-deployment/amplify-cfn-templates/auth/1pagaquifb94f827-cloudformation-template.yml",
+				"logicalId": "auth1pagaquifb94f827"
+			},
+			"lastPushTimeStamp": "2020-05-22T06:01:06.256Z",
+			"output": {
+				"AppClientSecret": "1ed3jbv44ih4gbhp1q903l7d9irmab54irf7058h9hlrto50g9sf",
+				"UserPoolId": "us-east-1_9OmI1qJSM",
+				"AppClientIDWeb": "7ue7h96035rj9f5pbaa61qc3k8",
+				"AppClientID": "2gebt75ah2udkcgkiaj23ao97d",
+				"HostedUIDomain": "1pagaquifb94f827-fb94f827-dev",
+				"IdentityPoolId": "us-east-1:459978bd-9e62-4153-adab-6480da884526",
+				"IdentityPoolName": "1pagaquifb94f827_identitypool_fb94f827__dev",
+				"OAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"https://api.1pagaqui.com/\"],\"LogoutURLs\":[\"https://api.1pagaqui.com/\"]}",
+				"UserPoolName": "1pagaquifb94f827_userpool_fb94f827"
+			},
+			"lastPushDirHash": "ZRrRCiwgmqGWda00hG1cJ9eYB7k="
+		}
+	}
+}
